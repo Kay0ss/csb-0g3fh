@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-chakra-ui-react-github-calendar"]=this["webpackJsonpreact-chakra-ui-react-github-calendar"]||[]).push([[0],{55:function(e,t,c){},64:function(e,t,c){"use strict";c.r(t);var a=c(0),r=c(2),n=c.n(r),s=c(11),i=c(10),u=(c(55),c(1));function h(){return Object(u.jsx)(s.a,{children:Object(u.jsx)(i.a,{username:"Kay0ss"})})}var o=document.getElementById("root");n.a.render(Object(u.jsx)(a.StrictMode,{children:Object(u.jsx)(h,{})}),o)}},[[64,1,2]]]);
+//# sourceMappingURL=main.361bf6db.chunk.js.map
